@@ -1,5 +1,5 @@
 ### Hello World, We’re GerenciaIOT 👩‍💻👋
-  🌱 Development of Internet of Things projects<br/> 
+  🌱 Development of Internet of Things Projects<br/> 
   🏫 Federal Institute of Pernambuco (IFPE) - Belo Jardim Campus<br/><br/>
  
 ## 📌Developed projects
