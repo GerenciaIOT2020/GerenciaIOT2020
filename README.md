@@ -3,9 +3,9 @@
   🏫 Federal Institute of Pernambuco (IFPE) - Belo Jardim Campus<br/><br/>
  
 ## 📌Developed projects
-     👨‍🌾 Smart irrigation
-     🌤  Weather station
-     🛠️ Maker culture laboratory
+	👨‍🌾 Smart irrigation
+	🌤  Weather station
+	🛠️ Maker culture laboratory
 
 ## GitHub stats
 <div align="center">
@@ -21,7 +21,7 @@
   
 ## 👨🏽‍🎓 Members and collaborators
   <p  align="center">
-    <a href="https://github.com/igorsantos314">Igor Santos</a> • <a href="">Raquel Santos</a> • <a href="https://github.com/EvertonLucasGomes">Everton Lucas</a> • <a href="">Weverton</a> • <a href="">Thomas</a> 
+    <a href="https://github.com/igorsantos314">Igor Santos</a> • <a href="">Raquel Santos</a> • <a href="https://github.com/EvertonLucasGomes">Everton Lucas</a> • <a href="https://github.com/WevertonBarros">Weverton Barros</a> • <a href="">Thomas Abdias</a> 
   </p>
 	
 ## Progress of projects
