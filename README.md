@@ -16,12 +16,12 @@
   
 ## 👨🏽‍🏫 Coordinators / Advisors
   <p  align="center">
-    <a href="">Hitalo</a> • <a href="">Elton Torres</a> • <a href="">João Almeida</a>
+    <a href="">Hitalo Silva</a> • <a href="">Elton Torres</a> • <a href="">João Almeida</a>
   <p/>
   
 ## 👨🏽‍🎓 Members and collaborators
   <p  align="center">
-    <a href="https://github.com/igorsantos314">Igor Santos</a> • <a href="">Raquel Santos</a> • <a href="https://github.com/EvertonLucasGomes">Everton Lucas</a> • <a href="https://github.com/WevertonBarros">Weverton Barros</a> • <a href="">Thomas Abdias</a> 
+    <a href="https://github.com/igorsantos314">Igor Santos</a> • <a href="https://github.com/M-RaquelCS">Raquel Santos</a> • <a href="https://github.com/EvertonLucasGomes">Everton Lucas</a> • <a href="https://github.com/WevertonBarros">Weverton Barros</a> • <a href="">Thomas Abdias</a> 
   </p>
 	
 ## Progress of projects
